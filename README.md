@@ -1,2 +1,2 @@
 # Chronic-Kidney-Disease
- CKD using Machine Learning for (IEEE_ICCIT21)
+ CKD using Machine Learning for (IEEE_ICCIT 21)
